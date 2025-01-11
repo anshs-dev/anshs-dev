@@ -1,6 +1,6 @@
 ## 💫 About Me:
 <h3 style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #4B0082; font-weight: bold; transform: rotate(-5deg); text-align: left;">
-  🌌 "Merging the power of code with boundless imagination to shape digital worlds and craft tech legends." 🚀
+  🌌"Merging the power of code with boundless imagination to shape digital worlds and craft tech legends"🚀
 </h3>
 
 ![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJzaW9rNmU3N3d0eDk2cHQ4cGdncW55YWdzZHk0ZmhzNHJqamVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqVYUDkEO0sf5bllUe/giphy-downsized-large.gif)
