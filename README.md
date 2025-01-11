@@ -30,9 +30,16 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anshs-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✨ Work with me!!!😀
+### ✨ "Ready to bring ideas to life? 💡 Let's collaborate and make magic happen! ✨ Reach out anytime! 📬"
 ![Connect GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd6N3QzbnRsejVmb2QwNG5udmh3cGdxNGtvZ2k5MXp3MWM5bnByNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xQQP4ahKiyuxHy/giphy.gif)
 
+### Contact Me 👋
+
+- **Email**: [ansh@example.com](mailto:anshs_dev@gmail.com)
+- **LinkedIn**: [Ansh's LinkedIn](https://linkedin.com/in/ansh-soni-568059333)
+- **Instagram**: [@theansh_4](https://instagram.com/theansh_4)
+
+Feel free to reach out—I’m always open to new opportunities! 🚀
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
