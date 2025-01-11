@@ -35,9 +35,9 @@
 
 ### Contact Me 👋
 
-- **Email**: [ansh@example.com](mailto:anshs_dev@gmail.com)
-- **LinkedIn**: [Ansh's LinkedIn](https://linkedin.com/in/ansh-soni-568059333)
-- **Instagram**: [@theansh_4](https://instagram.com/theansh_4)
+- **Email**: [My MailBox 👩‍💻](mailto:anshs_dev@gmail.com)
+- **LinkedIn**: [My LinkedIn ✨](https://linkedin.com/in/ansh-soni-568059333)
+- **Instagram**: [My Insta ✨](https://instagram.com/theansh_4)
 
 Feel free to reach out—I’m always open to new opportunities! 🚀
 
