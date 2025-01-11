@@ -3,10 +3,7 @@
   🌌"Merging the power of code with boundless imagination to shape digital worlds and craft tech legends"🚀
 </h3>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; transform: rotate(-10deg);">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJzaW9rNmU3N3d0eDk2cHQ4cGdncW55YWdzZHk0ZmhzNHJqamVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqVYUDkEO0sf5bllUe/giphy-downsized-large.gif" alt="Developer GIF" style="max-width: 100%; height: auto;">
-</div>
-
+![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJzaW9rNmU3N3d0eDk2cHQ4cGdncW55YWdzZHk0ZmhzNHJqamVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqVYUDkEO0sf5bllUe/giphy-downsized-large.gif)
 
 
 🌟 <h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Ansh 🚀</h2>
