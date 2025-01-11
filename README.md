@@ -1,8 +1,7 @@
 # Hi there, I'm Ansh Soni, known as The Algorithmic Prince in the world of programming 👋
 
 ## Play Snake 🐍
-![snake game](https://raw.githubusercontent.com/anshs-dev/anshs-dev/main/dist/github-contribution-grid-snake.svg)
-
+![Snake animation](./snake.svg)
 
 Welcome to my GitHub profile! 🚀 Here you'll find my projects, contributions, and everything related to my coding journey. Let's connect and collaborate on some exciting projects! 😎
 
