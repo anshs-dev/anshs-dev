@@ -29,9 +29,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anshs-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Work with me!!!😀
-![Stats GIF](https://media.tenor.com/Eu0G.gif)
-[![Connect GIF](https://example.com/connect-gif.gif)](https://linkedin.com/in/ansh-soni-568059333)
+### ✨ Work with me!!!😀
+![Connect GIF](https://tenor.com/Eu0G.gif)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
