@@ -22,6 +22,20 @@ Here are the languages and tools I’m currently working with:
 - 🎨 Skilled in **Photoshop** for design work and **Logo Designing** for businesses
 - 🎬 Creating **musical videos** with a personal touch 🎶💖
 
+## GitHub Stats
+
+### My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshs-dev&show_icons=true&hide_title=true)
+
+### My Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshs-dev&show_icons=true&hide_title=true)
+
+### My GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshs-dev&hide_title=true)
+
+### My GitHub Activity
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=anshs-dev&hide_title=true)
+
 ## Projects
 Here are some of my key projects:
 - [Project Engineer's Toolkit](https://github.com/anshs-dev/LeetCode-Daily-Problems): A collection of 5 tools designed to make engineers' lives easier.
