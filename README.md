@@ -31,6 +31,7 @@
 
 ### Work with me!!!😀
 ![Stats GIF](https://tenor.com/Eu0G.gif)
+[![Connect GIF](https://example.com/connect-gif.gif)](https://linkedin.com/in/ansh-soni-568059333)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
