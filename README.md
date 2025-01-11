@@ -1,9 +1,35 @@
-## 💫 About Me: 
-<h3>🌌"Weaving the threads of code and imagination to craft legends in the realm of technology."🚀</h3>
+## 💫 About Me:
+<h3 style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #4B0082; font-weight: bold; transform: rotate(-5deg); text-align: left;">
+  🌌 "Merging the power of code with boundless imagination to shape digital worlds and craft tech legends." 🚀
+</h3>
 
 ![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJzaW9rNmU3N3d0eDk2cHQ4cGdncW55YWdzZHk0ZmhzNHJqamVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqVYUDkEO0sf5bllUe/giphy-downsized-large.gif)
 
-🌟 <h2>Hey there! I'm Ansh </h2>🚀<br>I'm a passionate full-stack developer and data science enthusiast on a mission to build impactful solutions that bridge the gap between innovation and real-world needs. 💡<br><br><h3>🔭 Current Focus:</h3><br><br>Completing AI-integrated full-stack projects that tackle real-world challenges 🌍🤖<br>Enhancing my expertise in cutting-edge technologies to drive meaningful change.<br><h3>💻 What I Bring:</h3><br><br>Strong skills in React, Next.js, and backend development.<br>A knack for solving complex problems (700+ LeetCode challenges and counting!)<br>A creative edge in logo designing and visually appealing web interfaces.<br>🌟<h3> Beyond Tech:</h3><br>When I'm not immersed in code, you can find me crafting musical videos, designing logos 🎨, or leveling up in the gym 🏋️‍♂️.<br><br>Check out my repositories for innovative projects, or let's connect to collaborate on something amazing! 🚀💬<br><br>
+🌟 <h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Ansh 🚀</h2>
+<p style="font-size: 18px; color: #333; line-height: 1.6;">I'm a passionate full-stack developer and data science enthusiast on a mission to create impactful solutions that bridge the gap between innovation and real-world needs. 💡</p>
+
+<h3 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">🔭 Current Focus:</h3>
+<ul style="font-size: 16px; color: #555; line-height: 1.6;">
+  <li>Completing AI-integrated full-stack projects that tackle real-world challenges 🌍🤖</li>
+  <li>Enhancing my expertise in cutting-edge technologies to drive meaningful change.</li>
+</ul>
+
+<h3 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">💻 What I Bring:</h3>
+<ul style="font-size: 16px; color: #555; line-height: 1.6;">
+  <li>Strong skills in React, Next.js, and backend development.</li>
+  <li>A knack for solving complex problems (700+ LeetCode challenges and counting!)</li>
+  <li>A creative edge in logo designing and crafting visually appealing web interfaces.</li>
+</ul>
+
+🌟 <h3 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Beyond Tech:</h3>
+<p style="font-size: 16px; color: #555; line-height: 1.6;">When I'm not immersed in code, you can find me:</p>
+<ul style="font-size: 16px; color: #555; line-height: 1.6;">
+  <li>Crafting musical videos 🎬</li>
+  <li>Designing logos 🎨</li>
+  <li>Leveling up at the gym 🏋️‍♂️</li>
+</ul>
+
+<p style="font-size: 16px; color: #333; line-height: 1.6;">Check out my repositories for innovative projects, or let's connect to collaborate on something amazing! 🚀💬</p>
 
 
 ## 🌐 Socials:
