@@ -1,7 +1,6 @@
 # 💫 About Me:
-![Mythical GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjd2aDQ4cG5jd29qYmc3aGlwN3RvYmM5YTJxOXR6dDdmMjBwcGI1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0NaKvjYoUytAr3z9OH/giphy.gif)
-
 🌌 "Weaving the threads of code and imagination to craft legends in the realm of technology." 🚀
+
 ![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJzaW9rNmU3N3d0eDk2cHQ4cGdncW55YWdzZHk0ZmhzNHJqamVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqVYUDkEO0sf5bllUe/giphy-downsized-large.gif)
 🌟 Hey there! I'm Ansh 🚀<br>I'm a passionate full-stack developer and data science enthusiast on a mission to build impactful solutions that bridge the gap between innovation and real-world needs. 💡<br><br>🔭 Current Focus:<br><br>Completing AI-integrated full-stack projects that tackle real-world challenges 🌍🤖<br>Enhancing my expertise in cutting-edge technologies to drive meaningful change.<br>💻 What I Bring:<br><br>Strong skills in React, Next.js, and backend development.<br>A knack for solving complex problems (700+ LeetCode challenges and counting!)<br>A creative edge in logo designing and visually appealing web interfaces.<br>🌟 Beyond Tech:<br>When I'm not immersed in code, you can find me crafting musical videos, designing logos 🎨, or leveling up in the gym 🏋️‍♂️.<br><br>Check out my repositories for innovative projects, or let's connect to collaborate on something amazing! 🚀💬<br><br>
 
@@ -27,8 +26,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anshs-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+### Visitors...
 [![](https://visitcount.itsvg.in/api?id=anshs-dev&icon=4&color=4)](https://visitcount.itsvg.in)
+
+### Work with me!!!
 [![Connect GIF](https://example.com/connect-gif.gif)](https://tenor.com/Eu0G.gif)
 
 
