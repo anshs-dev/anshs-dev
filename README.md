@@ -31,7 +31,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=anshs-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✨ Work with me!!!😀
-![Connect GIF](https://tenor.com/Eu0G.gif)
+![Connect GIF](https://tenor.com/view/cat-thuglife-sounds-good-to-gif-7229976)
 
 
 
