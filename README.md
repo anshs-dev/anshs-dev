@@ -150,7 +150,7 @@
 </div>
 </table>
 
-
+<div align="center">
 # 📊 GitHub Stats:
 
 <picture>
@@ -166,8 +166,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshs-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://komarev.com/ghpvc/?username=anshs-dev&color=brightgreen&style=flat)](https://github.com/anshs-dev)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anshs-dev&theme=dark&no-frame=false&no-bg=false&margin-w=4)
