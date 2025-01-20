@@ -8,6 +8,8 @@
 🌟 <h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Ansh 🚀</h2>
 <p style="font-size: 18px; color: #333; line-height: 1.6;">I'm a passionate full-stack developer and data science enthusiast on a mission to create impactful solutions that bridge the gap between innovation and real-world needs. 💡</p>
 
+ <p align="center"><a href="https://github.com/anshs-dev"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+
 <h3 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">🔭 Current Focus:</h3>
 <ul style="font-size: 16px; color: #555; line-height: 1.6;">
   <li>Completing AI-integrated full-stack projects that tackle real-world challenges 🌍🤖</li>
