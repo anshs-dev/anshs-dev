@@ -168,7 +168,7 @@
 ![Profile views](https://profile-counter.glitch.me/anshs-dev/count.svg)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>
-
+<div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anshs-dev&theme=dark&no-frame=false&no-bg=false&margin-w=4)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -196,6 +196,6 @@
 - **Instagram**: [My Insta ✨](https://instagram.com/theansh_4)
 
 Feel free to reach out—I’m always open to new opportunities! 🚀
-
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
