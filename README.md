@@ -13,6 +13,9 @@
 <!----- Ansh's Profile Bar ----------------------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://itshivam.tech" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=myselfshivams&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
 
 <h3 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">🔭 Current Focus:</h3>
 <ul style="font-size: 16px; color: #555; line-height: 1.6;">
