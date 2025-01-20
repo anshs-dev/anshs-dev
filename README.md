@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anshs-dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Gemstones&size=30&pause=1000&color=000000&background=FF2CE500&center=true&width=800&lines=%22Greetings%2C+fellow+coders!+%F0%9F%91%8B%22;%22I'm+Ansh%2C+a+web+and+data+science+enthusiast..%F0%9F%92%BB%E2%9C%A8%22;%22Mastering+problem-solving+and+crafting+smart+solutions..%E2%9A%A1%22;%22Coding+like+a+wizard%2C+creating+digital+magic..%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%AB%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Gemstones&size=30&pause=1000&color=000000&background=FF2CE500&center=true&width=800&lines=%22Greetings%2C+fellow+coders!+%F0%9F%91%8B%22;%22I'm+Ansh%2C+a+web+and+data+science+enthusiast..%F0%9F%92%BB%E2%9C%A8%22;%22Crafting+magic+through+code+%E2%9C%A8%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB.%22;%22Coding+like+a+wizard%2C+creating+digital+magic..%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%AB%22" alt="Typing SVG" />
   </a>
 </p>
 
