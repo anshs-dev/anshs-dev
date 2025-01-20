@@ -190,7 +190,7 @@
 ![Connect GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTd6N3QzbnRsejVmb2QwNG5udmh3cGdxNGtvZ2k5MXp3MWM5bnByNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xQQP4ahKiyuxHy/giphy.gif)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
+</div>
 ### Contact Me 👋
 
 - **Email**: [My MailBox 👩‍💻](mailto:anshs_dev@gmail.com)
@@ -198,6 +198,5 @@
 - **Instagram**: [My Insta ✨](https://instagram.com/theansh_4)
 
 Feel free to reach out—I’m always open to new opportunities! 🚀
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
