@@ -165,7 +165,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshs-dev&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshs-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-[![](https://komarev.com/ghpvc/?username=anshs-dev&color=brightgreen&style=flat)](https://github.com/anshs-dev)
+![Profile views](https://profile-counter.glitch.me/anshs-dev/count.svg)
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </div>
 
