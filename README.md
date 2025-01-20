@@ -36,14 +36,13 @@
 <p style="font-size: 16px; color: #333; line-height: 1.6;">Check out my repositories for innovative projects, or let's connect to collaborate on something amazing! 🚀💬</p>
 
 
-## 🌐 Socials:
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theansh_4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-soni-568059333) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/anshs_dev) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshs_dev)
 
 
-# 💻 Tech Stack:
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+# 💻 Tech Stack:
 
 ![Tech GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxoemxwMmJ2cHhua2RrNHN2bzAyMW9panU3MWIxcnh4bjZxdnB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif)
 
@@ -57,14 +56,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 ![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjYwbDhqOHJ0a290cXE0eGttdm41MmI1cGVmajFxOXlsaHhjOGJ6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
 
 ![](https://github-readme-stats.vercel.app/api?username=anshs-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshs-dev&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshs-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://komarev.com/ghpvc/?username=anshs-dev&color=brightgreen&style=flat)](https://github.com/anshs-dev)
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 ## 🏆 GitHub Trophies
