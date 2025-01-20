@@ -3,6 +3,9 @@
   🌌"Merging the power of code with boundless imagination to shape digital worlds and craft tech legends"🚀
 </h3>
 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
+
+
 ![Developer GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJzaW9rNmU3N3d0eDk2cHQ4cGdncW55YWdzZHk0ZmhzNHJqamVhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jqVYUDkEO0sf5bllUe/giphy-downsized-large.gif)
 
 🌟 <h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Ansh 🚀</h2>
