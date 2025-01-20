@@ -4,6 +4,11 @@
   </a>
 </p>
 
+<div align="center">
+  <h3 style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #4B0082; font-weight: bold; transform: rotate(-5deg);">
+    🌟 "I am Ansh: The Algorithmic Prince" 👑
+  </h3>
+  
 <h3 style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #4B0082; font-weight: bold; transform: rotate(-5deg); text-align: left;">
   🌌"Merging the power of code with boundless imagination to shape digital worlds and craft tech legends"🚀
 </h3>
