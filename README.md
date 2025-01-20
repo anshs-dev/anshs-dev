@@ -1,4 +1,5 @@
-##                                                                    💫 About Me: The Algorithmic Prince
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=F70202&background=FF2CE500&center=true&width=435&lines=%22Greetings%2C+fellow+coders!+%F0%9F%91%8B%22;%22I'm+Ansh%2C+a+passionate+web+and+data+science+enthusiast..%F0%9F%92%BB%E2%9C%A8%22;%22I+have+a+knack+for+problem-solving+and+building+efficient+solutions..%E2%9A%A1%F0%9F%94%A7%22;%22Crafting+code+like+a+wizard%2C+turning+ideas+into+digital+masterpieces..%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%AB%22)](https://git.io/typing-svg)
+
 <h3 style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #4B0082; font-weight: bold; transform: rotate(-5deg); text-align: left;">
   🌌"Merging the power of code with boundless imagination to shape digital worlds and craft tech legends"🚀
 </h3>
