@@ -37,11 +37,12 @@
 
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theansh_4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-soni-568059333) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/anshs_dev) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/anshs_dev)
 
-
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # 💻 Tech Stack:
 
 ![Tech GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxoemxwMmJ2cHhua2RrNHN2bzAyMW9panU3MWIxcnh4bjZxdnB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif)
