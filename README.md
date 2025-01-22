@@ -151,6 +151,7 @@
 </table>
 
 <div align="center">
+  
 # 📊 GitHub Stats:
 
 <picture>
